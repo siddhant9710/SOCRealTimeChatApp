@@ -1,6 +1,6 @@
 function MessageInput() {
     return (
-        <div>
+        <div className="input-area">
                     <input
                 type="text"
                 placeholder="Type a message"

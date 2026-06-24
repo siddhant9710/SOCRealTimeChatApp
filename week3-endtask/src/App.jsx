@@ -5,7 +5,7 @@ import ChatWindow from "./components/chatwindow";
 
 function App() {
   return (
-    <div>
+    <div className="container">
       <Sidebar />
       <ChatWindow />
     </div>
